@@ -1,0 +1,60 @@
+@font-face { 
+    font-family: "KazimirLight";
+    src: url("../fonts/KazimirLight.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face { 
+    font-family: "KazimirRegular";
+    src: url("../fonts/KazimirRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face { 
+    font-family: "KazimirMedium";
+    src: url("../fonts/KazimirMedium.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face { 
+    font-family: "KazimirBold";
+    src: url("../fonts/KazimirBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face { 
+    font-family: "KazimirBlack";
+    src: url("../fonts/KazimirBlack.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 900;
+}
+@font-face { 
+    font-family: "KazimirLightItalic";
+    src: url("../fonts/KazimirLightItalic.ttf") format("truetype");
+    font-style: italic;
+    font-weight: normal;
+}
+@font-face { 
+    font-family: "KazimirItalic";
+    src: url("../fonts/KazimirItalic.ttf") format("truetype");
+    font-style: italic;
+    font-weight: normal;
+}
+@font-face { 
+    font-family: "KazimirMediumItalic";
+    src: url("../fonts/KazimirMediumItalic.ttf") format("truetype");
+    font-style: italic;
+    font-weight: 500;
+}
+@font-face { 
+    font-family: "KazimirBoldItalic";
+    src: url("../fonts/KazimirBoldItalic.ttf") format("truetype");
+    font-style: italic;
+    font-weight: 700;
+}
+@font-face { 
+    font-family: "KazimirBlackItalic";
+    src: url("../fonts/KazimirBlackItalic.ttf") format("truetype");
+    font-style: italic;
+    font-weight: 900;
+}
